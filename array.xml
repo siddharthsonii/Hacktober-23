@@ -33,6 +33,26 @@
 
     <para>After considering different names, we decided to name this
     class simply <code><classname>array</classname></code>.</para>
+    <para>As replacement for ordinary arrays, the STL provides class
+    <code><classname>std::vector</classname></code>.  However,
+    <code><classname>std::vector&lt;&gt;</classname></code> provides
+    the semantics of dynamic arrays. Thus, it manages data to be able
+    to change the number of elements. This results in some overhead in
+    case only arrays with static size are needed.</para>
+
+    <para>As replacement for ordinary arrays, the STL provides class
+    <code><classname>std::vector</classname></code>.  However,
+    <code><classname>std::vector&lt;&gt;</classname></code> provides
+    the semantics of dynamic arrays. Thus, it manages data to be able
+    to change the number of elements. This results in some overhead in
+    case only arrays with static size are needed.</para>
+
+    <para>As replacement for ordinary arrays, the STL provides class
+    <code><classname>std::vector</classname></code>.  However,
+    <code><classname>std::vector&lt;&gt;</classname></code> provides
+    the semantics of dynamic arrays. Thus, it manages data to be able
+    to change the number of elements. This results in some overhead in
+    case only arrays with static size are needed.</para>
 
     <para>Note that this class is suggested to be part of the next
     Technical Report, which will extend the C++ Standard (see

@@ -42,6 +42,12 @@
 .cursor-default {
   cursor: default !important; }
 
+  .cursor-default {
+  cursor: default !important; }
+
+  .cursor-default {
+  cursor: default !important; }
+
 .filter-chips-wrapper {
   display: flex;
   flex-direction: row;
@@ -66,3 +72,24 @@
   max-width: 12rem;
   margin: 0.5rem;
   cursor: pointer; }
+
+  .filter-chips-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding-left: 1rem;
+  flex-wrap: wrap;
+  align-items: center; }
+
+  .filter-chips-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding-left: 1rem;
+  flex-wrap: wrap;
+  align-items: center; }
+
+  .filter-chips-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding-left: 1rem;
+  flex-wrap: wrap;
+  align-items: center; }

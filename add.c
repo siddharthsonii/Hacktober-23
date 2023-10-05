@@ -14,6 +14,19 @@ int main() {
     
     printf("%d - %d = %d", number1, number2, diff );
     return 0;
+        printf("%d + %d = %d", number1, number2, sum);
+    
+    printf("%d - %d = %d", number1, number2, diff );
+    return 0;
+        printf("%d + %d = %d", number1, number2, sum);
+    
+    printf("%d - %d = %d", number1, number2, diff );
+    return 0;
+        printf("%d + %d = %d", number1, number2, sum);
+    
+    printf("%d - %d = %d", number1, number2, diff );
+    return 0;
+    
     int main()
 {
     int a = 1;

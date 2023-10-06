@@ -37,6 +37,18 @@ jobs:
   # main JS frameworks
   backbone:
     <<: *defaults
+     backbone:
+    <<: *defaults
+     backbone:
+    <<: *defaults
+     backbone:
+    <<: *defaults
+     backbone:
+    <<: *defaults
+     backbone:
+    <<: *defaults
+     backbone:
+    <<: *defaults
   dojo:
     <<: *defaults
   react:
